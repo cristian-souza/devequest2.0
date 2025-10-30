@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+    /* Centraliza o conteúdo */
+    padding: 20px;
+    background-color: aqua;
+}
